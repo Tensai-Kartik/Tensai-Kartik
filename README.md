@@ -18,8 +18,7 @@ Building intelligent applications that combine AI, scalable backend systems, and
 ---
 
 ## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-weld-tau-51.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-sharma-109288317)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-weld-tau-51.vercel.app/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-sharma-109288317)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tensai.kartik)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tensai.kartik@gmail.com)
 
